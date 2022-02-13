@@ -1,0 +1,7 @@
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\elise\source\repos\CIS 297\cis297-w2022-assignment3-template-ambrizel\BankApplication\obj\Debug\BankApplication.pdb
